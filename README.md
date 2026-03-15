@@ -12,7 +12,7 @@ I am an **AI Engineer Intern** currently studying at **Ho Chi Minh City Universi
 
 I am passionate about solving complex problems in **Computer Vision**, **Natural Language Processing** and **LLMs**
 
-📫 **Connect with me:**
+**Connect with me:**
 
 <a href="https://www.linkedin.com/in/trần-xuân-thành-47a273344/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:txthanh1910@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -36,15 +36,15 @@ I am passionate about solving complex problems in **Computer Vision**, **Natural
 <a href="https://github.com/xthanh1910/Real-time-Player-and-Ball-Detection/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Real-time-Player-and-Ball-Detection&theme=cobalt" />
 </a>    
-<a href="https://github.com/xthanh1910/End-to-end-PASCAL-VOC-Object-Detection-with-Faster-R-CNN/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=End-to-end-PASCAL-VOC-Object-Detection-with-Faster-R-CNN&theme=cobalt" />
-</a>
-
-<br />
-
 <a href="https://github.com/xthanh1910/Dataset-Preparation-for-Jersey-Number-Classification/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Dataset-Preparation-for-Jersey-Number-Classification&theme=cobalt" />
 </a>    
+
+<br />
+
+<a href="https://github.com/xthanh1910/End-to-end-PASCAL-VOC-Object-Detection-with-Faster-R-CNN/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=End-to-end-PASCAL-VOC-Object-Detection-with-Faster-R-CNN&theme=cobalt" />
+</a>
 <a href="https://github.com/xthanh1910/Transfer-Learning/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Transfer-Learning&theme=cobalt" />
 </a>
