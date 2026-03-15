@@ -37,7 +37,7 @@ I am passionate about solving complex problems in **Computer Vision**, **Natural
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Real-time-Player-and-Ball-Detection&theme=cobalt&v=1" />
 </a>    
 <a href="https://github.com/xthanh1910/Dataset-Preparation-for-Jersey-Number-Classification/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Dataset-Preparation-for-Jersey-Number-Classification&theme=cobalt&v=1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Dataset-Preparation-for-Jersey-Number-Classification&theme=cobalt&v=2" />
 </a>    
 
 <br />
