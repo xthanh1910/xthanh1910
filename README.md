@@ -2,11 +2,11 @@
 
 # Welcome to Xuan Thanh's Space! 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=xthanh1910&fontSize=80" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=xthanh1910&fontSize=100" width="50%" />
 
 ---
 
-### About Me
+## About Me
 
 I am an **AI Engineer Intern** currently studying at **Ho Chi Minh City University of Technology (HCMUT - VNU)**.
 
@@ -20,7 +20,7 @@ I am passionate about solving complex problems in **Computer Vision**, **Natural
 
 ---
 
-### Featured Projects
+## Featured Projects
 
 <div align="center">
 
