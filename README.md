@@ -25,7 +25,7 @@ I am passionate about solving complex problems in **Computer Vision**, **Natural
 <div align="center">
 
 <a href="https://github.com/xthanh1910/Vietnamese-Administrative-Documents-Restructuring/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Vietnamese-Administrative-Documents-Restructuring&theme=highcontrast&v=1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Vietnamese-Administrative-Documents-Restructuring&theme=highcontrast&v=2" />
 </a> 
 <a href="https://github.com/xthanh1910/PaddleOCR-Post-processing-for-Vietnamese-Administrative-Documents/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=PaddleOCR-Post-processing-for-Vietnamese-Administrative-Documents&theme=highcontrast&v=1" />
