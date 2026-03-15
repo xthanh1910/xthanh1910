@@ -1,57 +1,87 @@
-### WELCOME TO MY PAGE 👋👋👋
-My name is ____________. I am a ____________ tại ____________. I am interested in the following topics: ____________, ____________, ____________.<br>
+<div align="center">
 
-## 📫 How to reach me: 
+# Welcome to Xuan Thanh's Space! 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/____________/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/____________/) [![Youtube](https://raw.githubusercontent.com/vietnh1009/introduction/main/Youtube.png) Youtube](https://www.youtube.com/channel/____________)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=xthanh1910&fontSize=80" width="100%" />
 
-![____________'s github stats](https://github-readme-stats.vercel.app/api?username=____________&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+---
 
+### About Me
 
+I am an **AI Engineer Intern** currently studying at **Ho Chi Minh City University of Technology (HCMUT - VNU)**.
 
+I am passionate about solving complex problems in **Computer Vision**, **Natural Language Processing** and **LLMs**
+
+📫 **Connect with me:**
+
+<a href="https://www.linkedin.com/in/trần-xuân-thành-47a273344/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:txthanh1910@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.facebook.com/xthanh191004/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+
+---
+
+### Featured Projects
+
+<div align="center">
 
 <a href="https://github.com/xthanh1910/Vietnamese-Administrative-Documents-Restructuring/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Vietnamese-Administrative-Documents-Restructuring&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Vietnamese-Administrative-Documents-Restructuring&theme=highcontrast" />
 </a>    
 <a href="https://github.com/xthanh1910/PaddleOCR-Post-processing-for-Vietnamese-Administrative-Documents/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=PaddleOCR-Post-processing-for-Vietnamese-Administrative-Documents&theme=merko" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=PaddleOCR-Post-processing-for-Vietnamese-Administrative-Documents&theme=highcontrast" />
 </a>
+
+<br />
 
 <a href="https://github.com/xthanh1910/Real-time-Player-and-Ball-Detection/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Real-time-Player-and-Ball-Detection&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Real-time-Player-and-Ball-Detection&theme=cobalt" />
 </a>    
 <a href="https://github.com/xthanh1910/End-to-end-PASCAL-VOC-Object-Detection-with-Faster-R-CNN/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=End-to-end-PASCAL-VOC-Object-Detection-with-Faster-R-CNN&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=End-to-end-PASCAL-VOC-Object-Detection-with-Faster-R-CNN&theme=cobalt" />
 </a>
+
+<br />
 
 <a href="https://github.com/xthanh1910/Dataset-Preparation-for-Jersey-Number-Classification/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Dataset-Preparation-for-Jersey-Number-Classification&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Dataset-Preparation-for-Jersey-Number-Classification&theme=cobalt" />
 </a>    
 <a href="https://github.com/xthanh1910/Transfer-Learning/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Transfer-Learning&theme=cobalt" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Transfer-Learning&theme=cobalt" />
 </a>
+
+<br />
 
 <a href="https://github.com/xthanh1910/Simple-CNN/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Simple-CNN&theme=cobalt" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Simple-CNN&theme=cobalt" />
 </a>
 <a href="https://github.com/xthanh1910/Simple-Neural-Network/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Simple-Neural-Network &theme=cobalt"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Simple-Neural-Network&theme=cobalt"/>
 </a>
+
+<br />
 
 <a href="https://github.com/xthanh1910/Recommendation-System/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Recommendation-System &theme=cobalt" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Recommendation-System&theme=gruvbox" />
 </a>
 <a href="https://github.com/xthanh1910/Time-series-Forecasting/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Time-series-Forecasting&theme=cobalt" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Time-series-Forecasting&theme=gruvbox" />
 </a>
 
-<a href="https://github.com/xthanh1910/Job-Classification/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Job-Classification&theme=cobalt" />
-</a>
-<a href="https://github.com/xthanh1910/Regression/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Regression&theme=cobalt" />
-</a>
+<br />
 
 <a href="https://github.com/xthanh1910/Classification/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Classification&theme=cobalt" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Classification&theme=gruvbox" />
 </a>
+<a href="https://github.com/xthanh1910/Regression/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Regression&theme=gruvbox" />
+</a>
+
+<br />
+
+<a href="https://github.com/xthanh1910/Job-Classification/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Job-Classification&theme=highcontrast" />
+</a>
+
+</div>
+
+</div>
