@@ -2,7 +2,7 @@
 
 # Welcome to Xuan Thanh's Space! 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=xthanh1910&fontSize=100" width="50%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=xthanh1910&fontSize=100" width="40%" />
 
 ---
 
