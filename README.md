@@ -10,7 +10,7 @@
 
 I am an **AI Engineer Intern** currently studying at **Ho Chi Minh City University of Technology (HCMUT - VNU)**.
 
-I am passionate about solving complex problems in **Computer Vision**, **Natural Language Processing** and **LLMs**
+ I am interested in the following topics: **Computer Vision**, **Natural Language Processing** and the evolution of **Agentic AI**.
 
 **Connect with me:**
 
