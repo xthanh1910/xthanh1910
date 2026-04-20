@@ -28,7 +28,7 @@ I am an **AI Engineer Intern** currently studying at **Ho Chi Minh City Universi
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=Vietnamese-Administrative-Documents-Restructuring&theme=highcontrast&v=5" />
 </a> 
 <a href="https://github.com/xthanh1910/PaddleOCR-Post-processing-for-Vietnamese-Administrative-Documents/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=PaddleOCR-Post-processing-for-Vietnamese-Administrative-Documents&theme=highcontrast&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xthanh1910&repo=PaddleOCR-Post-processing-for-Vietnamese-Administrative-Documents&theme=highcontrast&v=3" />
 </a>
 
 <br />
